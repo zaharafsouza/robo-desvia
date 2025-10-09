@@ -16,12 +16,12 @@ O foco principal é **aplicar conceitos de eletricidade, eletrônica e lógica d
 
 ## ⚙️ Circuito – Versão 1 
 🪪 *Cartão de visita:*  
-`(inserir aqui a imagem)`  
+[tinkercad](https://www.tinkercad.com/things/9Jo7xvSY1X6-fantastic-elzing)`  
 
 ## ⚙️ Circuito – Versão 2 (Com Chave Geral de Desligar)
 
 🪪 *Cartão de visita:*  
-`(inserir aqui a imagem)`  
+[tinkercad](https://www.tinkercad.com/things/kZw9byAcMDs-exquisite-borwo)  
 
 ---
 
