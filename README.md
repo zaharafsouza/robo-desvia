@@ -12,7 +12,7 @@ O foco principal é **aplicar conceitos de eletricidade, eletrônica e lógica d
 - **Zahara**  
 - **Yasmin**  
 - **Luiza**
-<img width="1181" height="1748" alt="copyImage" src="https://github.com/user-attachments/assets/1b77baa6-2ff4-4380-aee4-e316d1746697" />
+<img width="300" height="450" alt="copyImage" src="https://github.com/user-attachments/assets/1b77baa6-2ff4-4380-aee4-e316d1746697" />
 
 ## ⚙️ Circuito – Versão 1 
 🪪 *Cartão de visita:*  
